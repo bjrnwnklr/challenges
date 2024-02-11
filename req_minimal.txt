@@ -1,0 +1,11 @@
+wheel
+pytest
+black
+flake8
+jupyter
+numpy
+pandas
+requests
+tqdm
+z3-solver
+
